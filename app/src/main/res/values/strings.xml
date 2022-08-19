@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="hello_from_android">Hello From Android</string>
+    <string name="account_status">Don\'t have an account?<font color="#FF006600"><b> Sign up</b></font></string>
 </resources>
